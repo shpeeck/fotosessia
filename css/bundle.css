@@ -1276,7 +1276,7 @@ a {
     width: 100%;
     height: 976px;
     max-width: 1920px;
-    background: url("http://w68928y8.bget.ru/wp-content/themes/peaceit/assets/img/header-bg.jpg");
+    background: url("img/header-bg.jpg");
     background-position: center;
     padding: 64px 0 0 0;
     margin: 0 auto; }
@@ -1486,7 +1486,7 @@ a {
 
 .services {
   margin-top: 80px;
-  background: url("http://w68928y8.bget.ru/wp-content/themes/peaceit/assets/img/services-bg.jpg");
+  background: url("img/services-bg.jpg");
   background-position: bottom;
   background-repeat: no-repeat;
   margin-top: 230px; }
@@ -1647,7 +1647,7 @@ a {
 
 .footer__contact {
   width: 100%;
-  background: url("http://w68928y8.bget.ru/wp-content/themes/peaceit/assets/img/contact-background.jpg");
+  background: url("img/contact-background.jpg");
   background-position: bottom;
   background-repeat: no-repeat; }
 
@@ -1846,7 +1846,7 @@ a {
     border-radius: 10px;
     position: relative;
     padding: 35px 38px;
-    background: url("http://w68928y8.bget.ru/wp-content/themes/peaceit/assets/img/digital-logo.jpg");
+    background: url("img/digital-logo.jpg");
     background-position: bottom;
     background-repeat: no-repeat; }
     @media (max-width: 430px) {
